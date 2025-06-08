@@ -1,0 +1,7 @@
+
+
+public static void main(String args[])
+{
+double a,x,rec=0;
+int n,i;
+
